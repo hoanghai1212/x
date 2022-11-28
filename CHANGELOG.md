@@ -1,3 +1,10 @@
+# 1.0.0 (2022-11-28)
+
+
+### Features
+
+* vibrating heart ([51292e5](https://github.com/hoanghai1212/x/commit/51292e547188f907a70d6c4f442e9b80783166eb))
+
 # [3.3.0](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.2.4...v3.3.0) (2022-11-22)
 
 
